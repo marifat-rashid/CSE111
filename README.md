@@ -1,2 +1,2 @@
 # CSE111
-gitclass
+gitclass my favourite code
